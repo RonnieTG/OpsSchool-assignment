@@ -1,2 +1,2 @@
-name: first last
-email: name@email.com
+name: Ronnie Teram Gil-Ad
+email: ronnie.gilad@gmail.com
